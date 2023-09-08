@@ -48,7 +48,8 @@ Jumlah Pengguna: <code>{total}</code>
 Berhasil: <code>{successful}</code>
 Gagal: <code>{unsuccessful}</code>
 Pengguna diblokir: <code>{blocked}</code>
-Akun Terhapus: <code>{deleted}</code></b>"""
+Akun Terhapus: <code>{deleted}</code></b>
+ʙʏ sɪ ᴧꝛᴧʙ | @Jasasiarab"""
         return await pls_wait.edit(status)
     else:
         msg = await message.reply(
